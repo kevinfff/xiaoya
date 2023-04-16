@@ -1,2 +1,2 @@
-FROM xiaoyaliu/alist:latest
+FROM xiaoyaliu/alist:hostmode
 MAINTAINER xiaoya
